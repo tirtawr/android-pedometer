@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+<<<<<<< HEAD
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="gen"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
 	<classpathentry kind="output" path="bin/classes"/>
+=======
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-core-4.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/oauth-consumer-20100601.jar"/>
+	<classpathentry kind="lib" path="lib/oauth-core-20100601.jar"/>
+	<classpathentry kind="lib" path="lib/oauth-provider-20100601.jar"/>
+	<classpathentry kind="lib" path="lib/signpost-commonshttp4-1.2.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/signpost-core-1.2.1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+>>>>>>> d086a1d675e16b522170a20afc980bcc95d94b05
 </classpath>
